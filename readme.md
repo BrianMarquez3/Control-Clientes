@@ -31,7 +31,7 @@ _Instalacion y Prueba de Conector_
 <table align="center" >
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="../images/ControlClientesMySQL.png" />
+      <img align="center" style="padding=0;" src="./images/ControlClientesMySQL.png" />
     </td>
   </tr>
 </table>
@@ -39,7 +39,7 @@ _Instalacion y Prueba de Conector_
 <table align="center" >
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="../images/ControlClientesMySQL2.png" />
+      <img align="center" style="padding=0;" src="./images/ControlClientesMySQL2.png" />
     </td>
   </tr>
 </table>
@@ -49,7 +49,7 @@ _Instalacion y Prueba de Conector_
 <table align="center" >
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="../images/Bizagui.png" />
+      <img align="center" style="padding=0;" src="./images/Bizagui.png" />
     </td>
   </tr>
 </table>
@@ -66,7 +66,7 @@ _Usaremos la herramienta BIzagui Modeler_
 <table align="center" >
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="../images/ControlCliente.png" />
+      <img align="center" style="padding=0;" src="./images/ControlCliente.png" />
     </td>
   </tr>
 </table>
@@ -386,7 +386,7 @@ public List<Cliente> listar() {
 <table align="center" >
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="../images/controlClientes1.png" />
+      <img align="center" style="padding=0;" src="./images/controlClientes1.png" />
     </td>
   </tr>
 </table>
@@ -405,7 +405,7 @@ Uso de bootstrap para:
 <table align="center" >
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="../images\bootstrapEjemplo.png" />
+      <img align="center" style="padding=0;" src="./images\bootstrapEjemplo.png" />
     </td>
   </tr>
 </table>
@@ -419,7 +419,7 @@ Link [Font Awesome](https://fontawesome.com/start)
 <table align="center" >
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="../images/fontAwersome.png" />
+      <img align="center" style="padding=0;" src="./images/fontAwersome.png" />
     </td>
   </tr>
 </table>
@@ -440,7 +440,7 @@ _Visualizacion de Backend_
 <table align="center" >
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="../images/controlClientes2.png" />
+      <img align="center" style="padding=0;" src="./images/controlClientes2.png" />
     </td>
   </tr>
 </table>
@@ -452,7 +452,7 @@ _Visualizacion de Backend_
 <table align="center" >
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="../images/controllientes3.png" />
+      <img align="center" style="padding=0;" src="./images/controllientes3.png" />
     </td>
   </tr>
 </table>
@@ -465,7 +465,7 @@ _Visualizacion de Backend_
 <table align="center" >
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="../images/controlClientes4.png" />
+      <img align="center" style="padding=0;" src="./images/controlClientes4.png" />
     </td>
   </tr>
 </table>
@@ -477,7 +477,7 @@ _Visualizacion de Backend_
 <table align="center" >
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="../images/ventanaModal1.png" />
+      <img align="center" style="padding=0;" src="./images/ventanaModal1.png" />
     </td>
   </tr>
 </table>
@@ -492,7 +492,7 @@ _Visualizacion de Backend_
 <table align="center" >
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="../images/controlClientes5.png" />
+      <img align="center" style="padding=0;" src="./images/controlClientes5.png" />
     </td>
   </tr>
 </table>
@@ -505,7 +505,7 @@ _Visualizacion de Backend_
 <table align="center" >
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="../images/controlClientes6.png" />
+      <img align="center" style="padding=0;" src="./images/controlClientes6.png" />
     </td>
   </tr>
 </table>
